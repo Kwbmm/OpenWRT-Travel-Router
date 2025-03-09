@@ -230,6 +230,7 @@ Once this is done, make sure to unplug the ethernet cable (you won't be able to 
 
 # TODO
 
-  - AdGuard setup
+  - AdGuard setup https://openwrt.org/docs/guide-user/services/dns/adguard-home
   - Wifi cards used + driver install
-  - Resizing of disk (if necessary)
+  - Resizing of disk (if necessary) https://github.com/openwrt/openwrt/issues/7729
+  - Investigate Travelmate? https://forum.openwrt.org/t/travelmate-support-thread/5155
