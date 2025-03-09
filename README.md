@@ -226,3 +226,10 @@ If you have any questions or need further assistance, feel free to ask!
 ---
 
 Once this is done, make sure to unplug the ethernet cable (you won't be able to go to the internet otherwise). Then reboot
+
+
+# TODO
+
+  - AdGuard setup
+  - Wifi cards used + driver install
+  - Resizing of disk (if necessary)
